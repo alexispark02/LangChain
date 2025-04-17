@@ -1,4 +1,4 @@
-** Credit to Stephen Grider's ChatGPT and LangChain: The Complete Developer's Masterclass course on Udemy **
+**Credit to Stephen Grider's ChatGPT and LangChain: The Complete Developer's Masterclass course on Udemy**
 
 # First Time Setup
 
