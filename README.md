@@ -1,3 +1,5 @@
+** Credit to Stephen Grider's ChatGPT and LangChain: The Complete Developer's Masterclass course on Udemy
+
 # First Time Setup
 
 ## Using Pipenv [Recommended]
